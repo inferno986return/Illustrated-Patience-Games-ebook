@@ -1,7 +1,7 @@
 # The Illustrated Book of Patience Games
 The Illustrated Book of Patience Games, The E-book.
 
-This is to my knowledge the only free ePub of Professor Hoffmans's book *The Illustrated Book of Patience Games*, 5th Edition. The book will be made with a few modern alterations, while keeping the text and feel intact.
+This is to my knowledge the only free ePub of Professor Hoffmans's book *The Illustrated Book of Patience Games*, 5th Edition. The book will be made with a few modern alterations, while keeping the text and feel intact. Eventually scanning will be attempted with OCR to capture the text and use of [vectorizer.io](http://www.vectorizer.io/) to get the marks.
 
 ## Compiling
 
