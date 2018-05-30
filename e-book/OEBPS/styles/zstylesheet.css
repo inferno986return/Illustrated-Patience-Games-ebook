@@ -397,27 +397,28 @@ td, th
 {
 	margin-top: 1em;
 	margin-bottom: 1em;
-	margin-left: auto;
-	margin-right: auto;
-	width: 100%;
-	border: solid 2px; /*Useful for debugging.*/
+	max-width: 100%
+	/*border: solid 2px; Useful for debugging.*/
 }
 
 .image-left
 {
 	margin-top: 1em;
 	margin-bottom: 1em;
-	margin-left: 0em;
-	margin-right: 0em;
-	width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
 	/*border: solid 2px; Useful for debugging.*/
 }
 
 p.image, .image
 {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 100%;
 	display: block;
-	margin: auto;
-	/*border: solid red 1px;*/
+	/*border: solid #F00 1px; Useful for debugging.*/
 }
 
 .figure-caption
