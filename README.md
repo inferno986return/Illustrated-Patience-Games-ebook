@@ -29,4 +29,4 @@ The `CreateE-book.py` script designed to be part of my [https://github.com/infer
 
 The IDPF's `epubcheck-4.0.2` tool is licensed under **Apache License 2.0**, **Mozilla Public License** and **BSD 3-clause License**.
 
-<img style="text-align: center;" width="300" height="450" src="https://github.com/inferno986return/cathedral-bazaar-ebook/blob/master/e-book/OEBPS/images/cover.png" alt="Cover"/>
+<img style="text-align: center;" width="300" height="450" src="https://github.com/inferno986return/Illustrated-Patience-Games-ebook/blob/master/e-book/OEBPS/images/cover.jpg" alt="Cover"/>
