@@ -60,6 +60,8 @@ h1.heading
 	font-family: serif;
 	font-weight: normal;
 	text-align: center;
+	color: #000;
+	font-variant: small-caps
 }
 
 h2.heading
@@ -69,6 +71,7 @@ h2.heading
 	font-weight: normal;
 	text-align: center;
 	color: #D31F26;
+	font-variant: small-caps;
 }
 
 h3.heading
