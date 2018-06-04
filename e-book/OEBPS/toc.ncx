@@ -168,7 +168,19 @@
 	</navPoint>
 	<navPoint id="navpoint-27" playOrder="27">
 		<navLabel>
-			<text> Solution of the Cæsar Problem</text>
+			<text>Thirteens</text>
+		</navLabel>
+		<content src="thirteens.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-28" playOrder="28">
+		<navLabel>
+			<text>The Fairest (No. 1)</text>
+		</navLabel>
+		<content src="thefairest1.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-29" playOrder="29">
+		<navLabel>
+			<text>Solution of the Cæsar Problem</text>
 		</navLabel>
 		<content src="solutioncaesar.xhtml" />
 	</navPoint>

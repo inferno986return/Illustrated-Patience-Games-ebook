@@ -184,7 +184,19 @@
 					{
 						"pageNumber": "24",
 						"indentation": "1",
-						"pageName": " Solution of the Cæsar Problem",
+						"pageName": "Thirteens",
+						"fileName": "thirteens.xhtml"
+					},
+					{
+						"pageNumber": "25",
+						"indentation": "1",
+						"pageName": "The Fairest (No. 1)",
+						"fileName": "thefairest1.xhtml"
+					},
+					{
+						"pageNumber": "26",
+						"indentation": "1",
+						"pageName": "Solution of the Cæsar Problem",
 						"fileName": "solutioncaesar.xhtml"
 					}
 				]
