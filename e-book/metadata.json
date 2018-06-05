@@ -184,17 +184,53 @@
 					{
 						"pageNumber": "24",
 						"indentation": "1",
+						"pageName": "The Four Seasons",
+						"fileName": "thefourseasons.xhtml"
+					},
+					{
+						"pageNumber": "25",
+						"indentation": "1",
 						"pageName": "Thirteens",
 						"fileName": "thirteens.xhtml"
 					},
 					{
-						"pageNumber": "25",
+						"pageNumber": "26",
 						"indentation": "1",
 						"pageName": "The Fairest (No. 1)",
 						"fileName": "thefairest1.xhtml"
 					},
 					{
-						"pageNumber": "26",
+						"pageNumber": "27",
+						"indentation": "1",
+						"pageName": "The Fairest (No. 2)",
+						"fileName": "thefairest2.xhtml"
+					},
+					{
+						"pageNumber": "28",
+						"indentation": "1",
+						"pageName": "The Storehouse",
+						"fileName": "thestorehouse.xhtml"
+					},
+					{
+						"pageNumber": "29",
+						"indentation": "1",
+						"pageName": "&#8220;Covering&#8221; Patience",
+						"fileName": "coveringpatience.xhtml"
+					},
+					{
+						"pageNumber": "30",
+						"indentation": "1",
+						"pageName": "The Indefatigable",
+						"fileName": "theindefatigable.xhtml"
+					},
+					{
+						"pageNumber": "31",
+						"indentation": "1",
+						"pageName": "Valentine",
+						"fileName": "valentine.xhtml"
+					},
+					{
+						"pageNumber": "32",
 						"indentation": "1",
 						"pageName": "Solution of the Cæsar Problem",
 						"fileName": "solutioncaesar.xhtml"

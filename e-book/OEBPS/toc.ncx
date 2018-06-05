@@ -168,17 +168,53 @@
 	</navPoint>
 	<navPoint id="navpoint-27" playOrder="27">
 		<navLabel>
+			<text>The Four Seasons</text>
+		</navLabel>
+		<content src="thefourseasons.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-28" playOrder="28">
+		<navLabel>
 			<text>Thirteens</text>
 		</navLabel>
 		<content src="thirteens.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-28" playOrder="28">
+	<navPoint id="navpoint-29" playOrder="29">
 		<navLabel>
 			<text>The Fairest (No. 1)</text>
 		</navLabel>
 		<content src="thefairest1.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-29" playOrder="29">
+	<navPoint id="navpoint-30" playOrder="30">
+		<navLabel>
+			<text>The Fairest (No. 2)</text>
+		</navLabel>
+		<content src="thefairest2.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-31" playOrder="31">
+		<navLabel>
+			<text>The Storehouse</text>
+		</navLabel>
+		<content src="thestorehouse.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-32" playOrder="32">
+		<navLabel>
+			<text>&#8220;Covering&#8221; Patience</text>
+		</navLabel>
+		<content src="coveringpatience.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-33" playOrder="33">
+		<navLabel>
+			<text>The Indefatigable</text>
+		</navLabel>
+		<content src="theindefatigable.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-34" playOrder="34">
+		<navLabel>
+			<text>Valentine</text>
+		</navLabel>
+		<content src="valentine.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-35" playOrder="35">
 		<navLabel>
 			<text>Solution of the Cæsar Problem</text>
 		</navLabel>
