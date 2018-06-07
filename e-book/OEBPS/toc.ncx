@@ -216,6 +216,66 @@
 	</navPoint>
 	<navPoint id="navpoint-35" playOrder="35">
 		<navLabel>
+			<text>The Trefoil</text>
+		</navLabel>
+		<content src="thetrefoil.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-36" playOrder="36">
+		<navLabel>
+			<text>The Corners</text>
+		</navLabel>
+		<content src="thecorners.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-37" playOrder="37">
+		<navLabel>
+			<text>The Cotillon</text>
+		</navLabel>
+		<content src="thecotillon.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-38" playOrder="38">
+		<navLabel>
+			<text>The Crescent</text>
+		</navLabel>
+		<content src="thecrescent.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-39" playOrder="39">
+		<navLabel>
+			<text>Lucas</text>
+		</navLabel>
+		<content src="lucas.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-40" playOrder="40">
+		<navLabel>
+			<text>The Constitution</text>
+		</navLabel>
+		<content src="theconstitution.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-41" playOrder="41">
+		<navLabel>
+			<text>The Four Corners</text>
+		</navLabel>
+		<content src="thefourcorners.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-42" playOrder="42">
+		<navLabel>
+			<text>The Reserves</text>
+		</navLabel>
+		<content src="thereserves.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-43" playOrder="43">
+		<navLabel>
+			<text>Rouge et Noir</text>
+		</navLabel>
+		<content src="rougeetnoir.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-44" playOrder="44">
+		<navLabel>
+			<text>The Twos</text>
+		</navLabel>
+		<content src="thetwos.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-45" playOrder="45">
+		<navLabel>
 			<text>Solution of the Cæsar Problem</text>
 		</navLabel>
 		<content src="solutioncaesar.xhtml" />

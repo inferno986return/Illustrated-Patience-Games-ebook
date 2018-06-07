@@ -232,6 +232,66 @@
 					{
 						"pageNumber": "32",
 						"indentation": "1",
+						"pageName": "The Trefoil",
+						"fileName": "thetrefoil.xhtml"
+					},
+					{
+						"pageNumber": "33",
+						"indentation": "1",
+						"pageName": "The Corners",
+						"fileName": "thecorners.xhtml"
+					},
+					{
+						"pageNumber": "34",
+						"indentation": "1",
+						"pageName": "The Cotillon",
+						"fileName": "thecotillon.xhtml"
+					},
+					{
+						"pageNumber": "35",
+						"indentation": "1",
+						"pageName": "The Crescent",
+						"fileName": "thecrescent.xhtml"
+					},
+					{
+						"pageNumber": "36",
+						"indentation": "1",
+						"pageName": "Lucas",
+						"fileName": "lucas.xhtml"
+					},
+					{
+						"pageNumber": "37",
+						"indentation": "1",
+						"pageName": "The Constitution",
+						"fileName": "theconstitution.xhtml"
+					},
+					{
+						"pageNumber": "38",
+						"indentation": "1",
+						"pageName": "The Four Corners",
+						"fileName": "thefourcorners.xhtml"
+					},
+					{
+						"pageNumber": "39",
+						"indentation": "1",
+						"pageName": "The Reserves",
+						"fileName": "thereserves.xhtml"
+					},
+					{
+						"pageNumber": "40",
+						"indentation": "1",
+						"pageName": "Rouge et Noir",
+						"fileName": "rougeetnoir.xhtml"
+					},
+					{
+						"pageNumber": "41",
+						"indentation": "1",
+						"pageName": "The Twos",
+						"fileName": "thetwos.xhtml"
+					},
+					{
+						"pageNumber": "42",
+						"indentation": "1",
 						"pageName": "Solution of the Cæsar Problem",
 						"fileName": "solutioncaesar.xhtml"
 					}
