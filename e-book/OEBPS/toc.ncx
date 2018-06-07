@@ -276,9 +276,57 @@
 	</navPoint>
 	<navPoint id="navpoint-45" playOrder="45">
 		<navLabel>
+			<text>The Kingdom</text>
+		</navLabel>
+		<content src="thekingdom.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-46" playOrder="46">
+		<navLabel>
+			<text>The Patriarchs</text>
+		</navLabel>
+		<content src="thepatriarchs.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-47" playOrder="47">
+		<navLabel>
+			<text>The Windmill</text>
+		</navLabel>
+		<content src="thewindmill.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-48" playOrder="48">
+		<navLabel>
+			<text>The Parallels</text>
+		</navLabel>
+		<content src="theparallels.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-49" playOrder="49">
+		<navLabel>
+			<text>The Blockade</text>
+		</navLabel>
+		<content src="theblockade.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-50" playOrder="50">
+		<navLabel>
+			<text>The Sultan</text>
+		</navLabel>
+		<content src="thesultan.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-51" playOrder="51">
+		<navLabel>
+			<text>The Lady of the Manor</text>
+		</navLabel>
+		<content src="theladyofthemanor.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-52" playOrder="52">
+		<navLabel>
 			<text>Solution of the Cæsar Problem</text>
 		</navLabel>
 		<content src="solutioncaesar.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-53" playOrder="53">
+		<navLabel>
+			<text>Back Cover</text>
+		</navLabel>
+		<content src="backcover.xhtml" />
 	</navPoint>
 </navMap>
 </ncx>

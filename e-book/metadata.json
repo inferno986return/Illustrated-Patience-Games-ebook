@@ -292,8 +292,56 @@
 					{
 						"pageNumber": "42",
 						"indentation": "1",
+						"pageName": "The Kingdom",
+						"fileName": "thekingdom.xhtml"
+					},
+					{
+						"pageNumber": "43",
+						"indentation": "1",
+						"pageName": "The Patriarchs",
+						"fileName": "thepatriarchs.xhtml"
+					},
+					{
+						"pageNumber": "44",
+						"indentation": "1",
+						"pageName": "The Windmill",
+						"fileName": "thewindmill.xhtml"
+					},
+					{
+						"pageNumber": "45",
+						"indentation": "1",
+						"pageName": "The Parallels",
+						"fileName": "theparallels.xhtml"
+					},
+					{
+						"pageNumber": "46",
+						"indentation": "1",
+						"pageName": "The Blockade",
+						"fileName": "theblockade.xhtml"
+					},
+					{
+						"pageNumber": "47",
+						"indentation": "1",
+						"pageName": "The Sultan",
+						"fileName": "thesultan.xhtml"
+					},
+					{
+						"pageNumber": "48",
+						"indentation": "1",
+						"pageName": "The Lady of the Manor",
+						"fileName": "theladyofthemanor.xhtml"
+					},
+					{
+						"pageNumber": "49",
+						"indentation": "1",
 						"pageName": "Solution of the Cæsar Problem",
 						"fileName": "solutioncaesar.xhtml"
+					},
+					{
+						"pageNumber": "50",
+						"indentation": "1",
+						"pageName": "Back Cover",
+						"fileName": "backcover.xhtml"
 					}
 				]
 }
