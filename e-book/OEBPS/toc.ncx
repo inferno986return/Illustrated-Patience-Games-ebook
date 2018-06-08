@@ -60,269 +60,293 @@
 	</navPoint>
 	<navPoint id="navpoint-9" playOrder="9">
 		<navLabel>
-			<text>The Wish</text>
+			<text>1. The Wish</text>
 		</navLabel>
 		<content src="thewish.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-10" playOrder="10">
 		<navLabel>
-			<text>The Star</text>
+			<text>2. The Star</text>
 		</navLabel>
 		<content src="thestar.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-11" playOrder="11">
 		<navLabel>
-			<text>Hope</text>
+			<text>3. Hope</text>
 		</navLabel>
 		<content src="hope.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-12" playOrder="12">
 		<navLabel>
-			<text>The Amazons</text>
+			<text>4. The Amazons</text>
 		</navLabel>
 		<content src="theamazons.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-13" playOrder="13">
 		<navLabel>
-			<text>The Harvest</text>
+			<text>5. The Harvest</text>
 		</navLabel>
 		<content src="theharvest.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-14" playOrder="14">
 		<navLabel>
-			<text>Royal Marriage</text>
+			<text>6. Royal Marriage</text>
 		</navLabel>
 		<content src="royalmarriage.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-15" playOrder="15">
 		<navLabel>
-			<text>Quadrille</text>
+			<text>7. Quadrille</text>
 		</navLabel>
 		<content src="quadrille.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-16" playOrder="16">
 		<navLabel>
-			<text>Cæsar</text>
+			<text>8. Cæsar</text>
 		</navLabel>
 		<content src="caesar.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-17" playOrder="17">
 		<navLabel>
-			<text>Nestor</text>
+			<text>9. Nestor</text>
 		</navLabel>
 		<content src="nestor.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-18" playOrder="18">
 		<navLabel>
-			<text>Hidden Cards</text>
+			<text>10. Hidden Cards</text>
 		</navLabel>
 		<content src="hiddencards.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-19" playOrder="19">
 		<navLabel>
-			<text>The Dial (No. 1)</text>
+			<text>11. The Dial (No. 1)</text>
 		</navLabel>
 		<content src="thedial1.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-20" playOrder="20">
 		<navLabel>
-			<text>The Dial (No. 2)</text>
+			<text>12. The Dial (No. 2)</text>
 		</navLabel>
 		<content src="thedial2.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-21" playOrder="21">
 		<navLabel>
-			<text>Elevens (No. 1)</text>
+			<text>13. Elevens (No. 1)</text>
 		</navLabel>
 		<content src="elevens1.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-22" playOrder="22">
 		<navLabel>
-			<text>Elevens (No. 2)</text>
+			<text>14. Elevens (No. 2)</text>
 		</navLabel>
 		<content src="elevens2.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-23" playOrder="23">
 		<navLabel>
-			<text>Robert</text>
+			<text>15. Robert</text>
 		</navLabel>
 		<content src="robert.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-24" playOrder="24">
 		<navLabel>
-			<text>The Pyramid</text>
+			<text>16. The Pyramid</text>
 		</navLabel>
 		<content src="thepyramid.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-25" playOrder="25">
 		<navLabel>
-			<text>The Five Court Cards</text>
+			<text>17. The Five Court Cards</text>
 		</navLabel>
 		<content src="thefivecourtcards.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-26" playOrder="26">
 		<navLabel>
-			<text>The Talkative</text>
+			<text>18. The Talkative</text>
 		</navLabel>
 		<content src="thetalkative.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-27" playOrder="27">
 		<navLabel>
-			<text>The Four Seasons</text>
+			<text>19. The Four Seasons</text>
 		</navLabel>
 		<content src="thefourseasons.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-28" playOrder="28">
 		<navLabel>
-			<text>Thirteens</text>
+			<text>20. Thirteens</text>
 		</navLabel>
 		<content src="thirteens.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-29" playOrder="29">
 		<navLabel>
-			<text>The Fairest (No. 1)</text>
+			<text>21. The Fairest (No. 1)</text>
 		</navLabel>
 		<content src="thefairest1.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-30" playOrder="30">
 		<navLabel>
-			<text>The Fairest (No. 2)</text>
+			<text>22. The Fairest (No. 2)</text>
 		</navLabel>
 		<content src="thefairest2.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-31" playOrder="31">
 		<navLabel>
-			<text>The Storehouse</text>
+			<text>23. The Storehouse</text>
 		</navLabel>
 		<content src="thestorehouse.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-32" playOrder="32">
 		<navLabel>
-			<text>&#8220;Covering&#8221; Patience</text>
+			<text>24. &#8220;Covering&#8221; Patience</text>
 		</navLabel>
 		<content src="coveringpatience.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-33" playOrder="33">
 		<navLabel>
-			<text>The Indefatigable</text>
+			<text>25. The Indefatigable</text>
 		</navLabel>
 		<content src="theindefatigable.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-34" playOrder="34">
 		<navLabel>
-			<text>Valentine</text>
+			<text>26. Valentine</text>
 		</navLabel>
 		<content src="valentine.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-35" playOrder="35">
 		<navLabel>
-			<text>The Trefoil</text>
+			<text>27. The Trefoil</text>
 		</navLabel>
 		<content src="thetrefoil.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-36" playOrder="36">
 		<navLabel>
-			<text>The Corners</text>
+			<text>28. The Corners</text>
 		</navLabel>
 		<content src="thecorners.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-37" playOrder="37">
 		<navLabel>
-			<text>The Cotillon</text>
+			<text>29. The Cotillon</text>
 		</navLabel>
 		<content src="thecotillon.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-38" playOrder="38">
 		<navLabel>
-			<text>The Crescent</text>
+			<text>30. The Crescent</text>
 		</navLabel>
 		<content src="thecrescent.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-39" playOrder="39">
 		<navLabel>
-			<text>Lucas</text>
+			<text>31. Lucas</text>
 		</navLabel>
 		<content src="lucas.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-40" playOrder="40">
 		<navLabel>
-			<text>The Constitution</text>
+			<text>32. The Constitution</text>
 		</navLabel>
 		<content src="theconstitution.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-41" playOrder="41">
 		<navLabel>
-			<text>The Four Corners</text>
+			<text>33. The Four Corners</text>
 		</navLabel>
 		<content src="thefourcorners.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-42" playOrder="42">
 		<navLabel>
-			<text>The Reserves</text>
+			<text>34. The Reserves</text>
 		</navLabel>
 		<content src="thereserves.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-43" playOrder="43">
 		<navLabel>
-			<text>Rouge et Noir</text>
+			<text>35. Rouge et Noir</text>
 		</navLabel>
 		<content src="rougeetnoir.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-44" playOrder="44">
 		<navLabel>
-			<text>The Twos</text>
+			<text>36. The Twos</text>
 		</navLabel>
 		<content src="thetwos.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-45" playOrder="45">
 		<navLabel>
-			<text>The Kingdom</text>
+			<text>37. The Kingdom</text>
 		</navLabel>
 		<content src="thekingdom.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-46" playOrder="46">
 		<navLabel>
-			<text>The Patriarchs</text>
+			<text>38. The Patriarchs</text>
 		</navLabel>
 		<content src="thepatriarchs.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-47" playOrder="47">
 		<navLabel>
-			<text>The Windmill</text>
+			<text>39. The Windmill</text>
 		</navLabel>
 		<content src="thewindmill.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-48" playOrder="48">
 		<navLabel>
-			<text>The Parallels</text>
+			<text>40. The Parallels</text>
 		</navLabel>
 		<content src="theparallels.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-49" playOrder="49">
 		<navLabel>
-			<text>The Blockade</text>
+			<text>41. The Blockade</text>
 		</navLabel>
 		<content src="theblockade.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-50" playOrder="50">
 		<navLabel>
-			<text>The Sultan</text>
+			<text>42. The Sultan</text>
 		</navLabel>
 		<content src="thesultan.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-51" playOrder="51">
 		<navLabel>
-			<text>The Lady of the Manor</text>
+			<text>43. The Lady of the Manor</text>
 		</navLabel>
 		<content src="theladyofthemanor.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-52" playOrder="52">
 		<navLabel>
+			<text>44. The Wheatsheaf</text>
+		</navLabel>
+		<content src="thewheatsheaf.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-53" playOrder="53">
+		<navLabel>
+			<text>45. The Juvenile</text>
+		</navLabel>
+		<content src="thejuvenile.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-54" playOrder="54">
+		<navLabel>
+			<text>46. The Shah</text>
+		</navLabel>
+		<content src="theshah.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-55" playOrder="55">
+		<navLabel>
+			<text>47. The Spark</text>
+		</navLabel>
+		<content src="thespark.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-56" playOrder="56">
+		<navLabel>
 			<text>Solution of the Cæsar Problem</text>
 		</navLabel>
 		<content src="solutioncaesar.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-53" playOrder="53">
+	<navPoint id="navpoint-57" playOrder="57">
 		<navLabel>
 			<text>Back Cover</text>
 		</navLabel>
