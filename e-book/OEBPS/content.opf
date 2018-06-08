@@ -72,6 +72,14 @@
 		<item href="thejuvenile.xhtml" id="thejuvenile" media-type="application/xhtml+xml"/>
 		<item href="theshah.xhtml" id="theshah" media-type="application/xhtml+xml"/>
 		<item href="thespark.xhtml" id="thespark" media-type="application/xhtml+xml"/>
+		<item href="laparisienne.xhtml" id="laparisienne" media-type="application/xhtml+xml"/>
+		<item href="lacapricieuse.xhtml" id="lacapricieuse" media-type="application/xhtml+xml"/>
+		<item href="lanationale.xhtml" id="lanationale" media-type="application/xhtml+xml"/>
+		<item href="thefly.xhtml" id="thefly" media-type="application/xhtml+xml"/>
+		<item href="lespetitspaquets.xhtml" id="lespetitspaquets" media-type="application/xhtml+xml"/>
+		<item href="lightandshade.xhtml" id="lightandshade" media-type="application/xhtml+xml"/>
+		<item href="theplait.xhtml" id="theplait" media-type="application/xhtml+xml"/>
+		<item href="queensandknaves.xhtml" id="queensandknaves" media-type="application/xhtml+xml"/>
 		<item href="solutioncaesar.xhtml" id="solutioncaesar" media-type="application/xhtml+xml"/>
 		<item href="backcover.xhtml" id="backcover" media-type="application/xhtml+xml"/>
 	</manifest>
@@ -129,6 +137,14 @@
 		<itemref idref="thejuvenile"/>
 		<itemref idref="theshah"/>
 		<itemref idref="thespark"/>
+		<itemref idref="laparisienne"/>
+		<itemref idref="lacapricieuse"/>
+		<itemref idref="lanationale"/>
+		<itemref idref="thefly"/>
+		<itemref idref="lespetitspaquets"/>
+		<itemref idref="lightandshade"/>
+		<itemref idref="theplait"/>
+		<itemref idref="queensandknaves"/>
 		<itemref idref="solutioncaesar"/>
 		<itemref idref="backcover"/>
 	</spine>

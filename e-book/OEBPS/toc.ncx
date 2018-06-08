@@ -342,11 +342,59 @@
 	</navPoint>
 	<navPoint id="navpoint-56" playOrder="56">
 		<navLabel>
+			<text>48. La Parisienne</text>
+		</navLabel>
+		<content src="laparisienne.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-57" playOrder="57">
+		<navLabel>
+			<text>49. La Capricieuse</text>
+		</navLabel>
+		<content src="lacapricieuse.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-58" playOrder="58">
+		<navLabel>
+			<text>50. La Nationale</text>
+		</navLabel>
+		<content src="lanationale.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-59" playOrder="59">
+		<navLabel>
+			<text>51. The Fly</text>
+		</navLabel>
+		<content src="thefly.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-60" playOrder="60">
+		<navLabel>
+			<text>52. Les Petits Paquets</text>
+		</navLabel>
+		<content src="lespetitspaquets.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-61" playOrder="61">
+		<navLabel>
+			<text>53. Light and Shade</text>
+		</navLabel>
+		<content src="lightandshade.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-62" playOrder="62">
+		<navLabel>
+			<text>54. The Plait</text>
+		</navLabel>
+		<content src="theplait.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-63" playOrder="63">
+		<navLabel>
+			<text>55. Queens and Knaves</text>
+		</navLabel>
+		<content src="queensandknaves.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-64" playOrder="64">
+		<navLabel>
 			<text>Solution of the Cæsar Problem</text>
 		</navLabel>
 		<content src="solutioncaesar.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-57" playOrder="57">
+	<navPoint id="navpoint-65" playOrder="65">
 		<navLabel>
 			<text>Back Cover</text>
 		</navLabel>

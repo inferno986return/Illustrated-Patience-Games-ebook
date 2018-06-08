@@ -358,11 +358,59 @@
 					{
 						"pageNumber": "53",
 						"indentation": "1",
+						"pageName": "48. La Parisienne",
+						"fileName": "laparisienne.xhtml"
+					},
+					{
+						"pageNumber": "54",
+						"indentation": "1",
+						"pageName": "49. La Capricieuse",
+						"fileName": "lacapricieuse.xhtml"
+					},
+					{
+						"pageNumber": "55",
+						"indentation": "1",
+						"pageName": "50. La Nationale",
+						"fileName": "lanationale.xhtml"
+					},
+					{
+						"pageNumber": "56",
+						"indentation": "1",
+						"pageName": "51. The Fly",
+						"fileName": "thefly.xhtml"
+					},
+					{
+						"pageNumber": "57",
+						"indentation": "1",
+						"pageName": "52. Les Petits Paquets",
+						"fileName": "lespetitspaquets.xhtml"
+					},
+					{
+						"pageNumber": "58",
+						"indentation": "1",
+						"pageName": "53. Light and Shade",
+						"fileName": "lightandshade.xhtml"
+					},
+					{
+						"pageNumber": "59",
+						"indentation": "1",
+						"pageName": "54. The Plait",
+						"fileName": "theplait.xhtml"
+					},
+					{
+						"pageNumber": "60",
+						"indentation": "1",
+						"pageName": "55. Queens and Knaves",
+						"fileName": "queensandknaves.xhtml"
+					},
+					{
+						"pageNumber": "61",
+						"indentation": "1",
 						"pageName": "Solution of the Cæsar Problem",
 						"fileName": "solutioncaesar.xhtml"
 					},
 					{
-						"pageNumber": "54",
+						"pageNumber": "62",
 						"indentation": "1",
 						"pageName": "Back Cover",
 						"fileName": "backcover.xhtml"
