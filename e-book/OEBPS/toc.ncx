@@ -390,11 +390,59 @@
 	</navPoint>
 	<navPoint id="navpoint-64" playOrder="64">
 		<navLabel>
+			<text>56. The Quadrangle</text>
+		</navLabel>
+		<content src="thequadrangle.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-65" playOrder="65">
+		<navLabel>
+			<text>57. The Octagon</text>
+		</navLabel>
+		<content src="theoctagon.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-66" playOrder="66">
+		<navLabel>
+			<text>58. The Picture Gallery</text>
+		</navLabel>
+		<content src="thepicturegallery.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-67" playOrder="67">
+		<navLabel>
+			<text>59. The Kings</text>
+		</navLabel>
+		<content src="thekings.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-68" playOrder="68">
+		<navLabel>
+			<text>60. The &#8220;Louis&#8221; Patience</text>
+		</navLabel>
+		<content src="thelouispatience.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-69" playOrder="69">
+		<navLabel>
+			<text>61. The Wrangle</text>
+		</navLabel>
+		<content src="thewrangle.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-70" playOrder="70">
+		<navLabel>
+			<text>62. Here and There</text>
+		</navLabel>
+		<content src="hereandthere.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-71" playOrder="71">
+		<navLabel>
+			<text>63. Sympathy</text>
+		</navLabel>
+		<content src="sympathy.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-72" playOrder="72">
+		<navLabel>
 			<text>Solution of the Cæsar Problem</text>
 		</navLabel>
 		<content src="solutioncaesar.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-65" playOrder="65">
+	<navPoint id="navpoint-73" playOrder="73">
 		<navLabel>
 			<text>Back Cover</text>
 		</navLabel>

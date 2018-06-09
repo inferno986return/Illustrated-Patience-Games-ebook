@@ -406,11 +406,59 @@
 					{
 						"pageNumber": "61",
 						"indentation": "1",
+						"pageName": "56. The Quadrangle",
+						"fileName": "thequadrangle.xhtml"
+					},
+					{
+						"pageNumber": "62",
+						"indentation": "1",
+						"pageName": "57. The Octagon",
+						"fileName": "theoctagon.xhtml"
+					},
+					{
+						"pageNumber": "63",
+						"indentation": "1",
+						"pageName": "58. The Picture Gallery",
+						"fileName": "thepicturegallery.xhtml"
+					},
+					{
+						"pageNumber": "64",
+						"indentation": "1",
+						"pageName": "59. The Kings",
+						"fileName": "thekings.xhtml"
+					},
+					{
+						"pageNumber": "65",
+						"indentation": "1",
+						"pageName": "60. The &#8220;Louis&#8221; Patience",
+						"fileName": "thelouispatience.xhtml"
+					},
+					{
+						"pageNumber": "66",
+						"indentation": "1",
+						"pageName": "61. The Wrangle",
+						"fileName": "thewrangle.xhtml"
+					},
+					{
+						"pageNumber": "67",
+						"indentation": "1",
+						"pageName": "62. Here and There",
+						"fileName": "hereandthere.xhtml"
+					},
+					{
+						"pageNumber": "68",
+						"indentation": "1",
+						"pageName": "63. Sympathy",
+						"fileName": "sympathy.xhtml"
+					},
+					{
+						"pageNumber": "69",
+						"indentation": "1",
 						"pageName": "Solution of the Cæsar Problem",
 						"fileName": "solutioncaesar.xhtml"
 					},
 					{
-						"pageNumber": "62",
+						"pageNumber": "70",
 						"indentation": "1",
 						"pageName": "Back Cover",
 						"fileName": "backcover.xhtml"
