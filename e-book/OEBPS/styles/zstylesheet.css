@@ -345,12 +345,13 @@ ol, ul
 {
   margin-top: 1em;
   margin-bottom: 1em;
-  text-align: justify;
+	font-family: serif;
 }
 
 li
 {
   margin-bottom: 0em;
+	margin-left: 3em;
   hyphens: none;
 }
 
@@ -446,8 +447,9 @@ div.red-box
 hr.heading-line
 {
 	width: 4em;
-	border-color: #D31F26;
 	border-style: solid;
+	border-color: #D31F26;
+	margin: auto;
 }
 
 hr.short-line
@@ -455,6 +457,7 @@ hr.short-line
 	width: 8em;
 	border-style: solid;
 	border-color: #000;
+	margin: auto;
 }
 
 hr.long-line

@@ -5,7 +5,7 @@
 		<dc:subject>Card Games, Reference</dc:subject>
 		<dc:publisher></dc:publisher>
 		<dc:identifier id="bookid">-</dc:identifier>
-		<dc:date>2018-06-09</dc:date>
+		<dc:date>2018-06-10</dc:date>
 		<dc:language>en</dc:language>
 		<dc:rights>CC-BY-SA 3.0</dc:rights>
 		<meta content="cover" name="cover"/>
@@ -18,7 +18,8 @@
 		<item href="images/cover.jpg" id="cover" media-type="image/jpeg"/>
 		<item href="images/introduction/introductionbegin.png" id="image2" media-type="image/png"/>
 		<item href="images/introduction/introductionend.png" id="image3" media-type="image/png"/>
-		<item href="images/thewish/thewishend.png" id="image4" media-type="image/png"/>
+		<item href="images/thestar/thestar.jpg" id="image4" media-type="image/jpeg"/>
+		<item href="images/thewish/thewishend.png" id="image5" media-type="image/png"/>
 		<item href="bookcover.xhtml" id="bookcover" media-type="application/xhtml+xml"/>
 		<item href="title.xhtml" id="title" media-type="application/xhtml+xml"/>
 		<item href="indicia.xhtml" id="indicia" media-type="application/xhtml+xml"/>
