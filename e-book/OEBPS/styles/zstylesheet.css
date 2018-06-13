@@ -397,7 +397,7 @@ td, th
 
 /*Images*/
 
-.image-center
+div.image-center, .image-center
 {
 	margin-top: 1em;
 	margin-bottom: 1em;
