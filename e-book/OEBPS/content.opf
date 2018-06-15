@@ -16,16 +16,18 @@
 		<item href="images/backcover.png" id="image0" media-type="image/png"/>
 		<item href="images/cc-zero.png" id="image1" media-type="image/png"/>
 		<item href="images/cover.jpg" id="cover" media-type="image/jpeg"/>
-		<item href="images/hiddencards/hiddencards.png" id="image2" media-type="image/png"/>
-		<item href="images/introduction/introductionbegin.png" id="image3" media-type="image/png"/>
-		<item href="images/introduction/introductionend.png" id="image4" media-type="image/png"/>
-		<item href="images/nestor/nestor.png" id="image5" media-type="image/png"/>
-		<item href="images/quadrille/quadrille.png" id="image6" media-type="image/png"/>
-		<item href="images/theamazons/theamazons.png" id="image7" media-type="image/png"/>
-		<item href="images/thefivecourtcards/thefivecourtcards.png" id="image8" media-type="image/png"/>
-		<item href="images/theharvest/theharvest.png" id="image9" media-type="image/png"/>
-		<item href="images/thestar/thestar.png" id="image10" media-type="image/png"/>
-		<item href="images/thewish/thewishend.png" id="image11" media-type="image/png"/>
+		<item href="images/elevens1/elevens1.png" id="image2" media-type="image/png"/>
+		<item href="images/elevens2/elevens2.png" id="image3" media-type="image/png"/>
+		<item href="images/hiddencards/hiddencards.png" id="image4" media-type="image/png"/>
+		<item href="images/introduction/introductionbegin.png" id="image5" media-type="image/png"/>
+		<item href="images/introduction/introductionend.png" id="image6" media-type="image/png"/>
+		<item href="images/nestor/nestor.png" id="image7" media-type="image/png"/>
+		<item href="images/quadrille/quadrille.png" id="image8" media-type="image/png"/>
+		<item href="images/theamazons/theamazons.png" id="image9" media-type="image/png"/>
+		<item href="images/thefivecourtcards/thefivecourtcards.png" id="image10" media-type="image/png"/>
+		<item href="images/theharvest/theharvest.png" id="image11" media-type="image/png"/>
+		<item href="images/thestar/thestar.png" id="image12" media-type="image/png"/>
+		<item href="images/thewish/thewishend.png" id="image13" media-type="image/png"/>
 		<item href="bookcover.xhtml" id="bookcover" media-type="application/xhtml+xml"/>
 		<item href="title.xhtml" id="title" media-type="application/xhtml+xml"/>
 		<item href="indicia.xhtml" id="indicia" media-type="application/xhtml+xml"/>
