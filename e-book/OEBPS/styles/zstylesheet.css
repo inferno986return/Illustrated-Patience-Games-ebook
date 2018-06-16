@@ -72,6 +72,7 @@ h2.heading
 	text-align: center;
 	color: #D31F26;
 	font-variant: small-caps;
+	margin-bottom: 0.3em;
 }
 
 h3.heading
@@ -81,6 +82,7 @@ h3.heading
 	font-family: serif;
 	font-weight: normal;
 	text-align: center;
+	margin-bottom: 0.5em;
 }
 
 /*Contents headings*/
@@ -399,8 +401,6 @@ td, th
 
 div.image-center, .image-center
 {
-	margin-top: 1em;
-	margin-bottom: 1em;
 	max-width: 100%
 	/*border: solid 2px; Useful for debugging.*/
 }
@@ -418,7 +418,6 @@ div.image-center, .image-center
 
 p.image, .image
 {
-	margin-top: 1em;
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 100%;
@@ -440,7 +439,7 @@ p.image, .image
 div.red-box
 {
 	border-style: solid;
-	border-width: 2px;
+	border-width: 3px;
 	border-color: #D31F26;
 	padding: 1em;
 }
@@ -450,7 +449,8 @@ hr.heading-line
 	width: 4em;
 	border-style: solid;
 	border-color: #D31F26;
-	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 hr.short-line
