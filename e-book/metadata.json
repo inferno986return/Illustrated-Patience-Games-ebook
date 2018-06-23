@@ -10,22 +10,22 @@
 		"comment2": "Technical metadata - This is the where the cover image is specified. Recommended to use ePub V2.0.over 3.for epubVersion and Reflowable rather than Fixed for textPresentation (unless doing a project that requires a specific layout). mobiCover and generateKindle are currently unused but added for futureproofing.",
 		"epubCover": "cover.jpg",
 		"mobiCover": "cover.jpg",
-		"fileName": "IllustratedGames",
+		"fileName": "HoffmansPatience",
 		"epubVersion": "2.0.1",
 		"textPresentation": "Reflowable",
 		"generateKindle": "no",
 		"generateGoogle": "yes",
 
 		"comment3": "Book metadata - Information about the e-book itself. Language is specified with ISO 639-1. ISBN number can be declared, as well as the Amazon ASIN. Rights can be worldwide, country specific or under a permissable license such as Creative-Commons SA",
-		"title": "The Illustrated Book of Patience Games",
-		"titleShort": "The Illustrated Book of Patience Games",
+		"title": "Professor Hoffman's Patience Games",
+		"titleShort": "Professor Hoffman's Patience Games",
 		"creator": "Professor Hoffman, Hal Motley",
 		"subject": "Card Games, Reference",
 		"publisher": "",
 		"ISBN": "-",
 		"ASIN": "",
 		"language": "en",
-		"rights": "CC-BY-SA 3.0",
+		"rights": "CC-BY-SA-NC 3.0, Public Domain",
 
 		"comment4": "This is the page order that the e-book has. The first number before the colon is the page order, the second is the indentation (default is 1, allowed upto 4), third is the page name and fourth is file itself.",
 		"pages": [
@@ -50,16 +50,14 @@
 					{
 						"pageNumber": "3",
 						"indentation": "1",
-						"pageName": "License",
-						"fileName": "license.xhtml",
-						"anchorNames": {
-							"anchorName0": "Content license",
-							"anchorName1": "E-book license"
-						},
-						"anchorLinks": {
-							"anchorLink0": "#content-license",
-							"anchorLink1": "#ebook-license"
-						}
+						"pageName": "Foreword",
+						"fileName": "foreword.xhtml"
+					},
+					{
+						"pageNumber": "4",
+						"indentation": "1",
+						"pageName": "Glossary",
+						"fileName": "glossary.xhtml"
 					},
 					{
 						"pageNumber": "4",
@@ -459,6 +457,54 @@
 					},
 					{
 						"pageNumber": "70",
+						"indentation": "1",
+						"pageName": "Preface",
+						"fileName": "preface.xhtml"
+					},
+					{
+						"pageNumber": "71",
+						"indentation": "1",
+						"pageName": "Introduction",
+						"fileName": "introduction2.xhtml"
+					},
+					{
+						"pageNumber": "72",
+						"indentation": "1",
+						"pageName": "1. The Original Patience",
+						"fileName": "theoriginalpatience.xhtml"
+					},
+					{
+						"pageNumber": "73",
+						"indentation": "1",
+						"pageName": "2. The Star",
+						"fileName": "thestar2.xhtml"
+					},
+					{
+						"pageNumber": "74",
+						"indentation": "1",
+						"pageName": "3. The Travellers",
+						"fileName": "thetravellers.xhtml"
+					},
+					{
+						"pageNumber": "75",
+						"indentation": "1",
+						"pageName": "4. The Carpet",
+						"fileName": "thecarpet.xhtml"
+					},
+					{
+						"pageNumber": "76",
+						"indentation": "1",
+						"pageName": "5. The Windmill",
+						"fileName": "thewindmill2.xhtml"
+					},
+					{
+						"pageNumber": "76",
+						"indentation": "1",
+						"pageName": "6. Heads and Tails",
+						"fileName": "headsandtails.xhtml"
+					},
+					{
+						"pageNumber": "77",
 						"indentation": "1",
 						"pageName": "Back Cover",
 						"fileName": "backcover.xhtml"
