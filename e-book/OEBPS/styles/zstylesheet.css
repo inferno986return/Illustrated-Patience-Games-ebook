@@ -193,6 +193,13 @@ h1.protip-heading
 	margin-bottom: 1em;
 }
 
+h1.split-page
+{
+	font-size: 2em;
+	font-weight: bold;
+	text-align: center;
+}
+
 /*Paragraphs*/
 
 p
@@ -487,6 +494,13 @@ div.red-box
 	border-width: 3px;
 	border-color: #D31F26;
 	padding: 1em;
+}
+
+div.split-page
+{
+	border: none;
+	height: 100%;
+	width: 100%;
 }
 
 hr.heading-line
