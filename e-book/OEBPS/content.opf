@@ -5,7 +5,7 @@
 		<dc:subject>Card Games, Reference</dc:subject>
 		<dc:publisher></dc:publisher>
 		<dc:identifier id="bookid">-</dc:identifier>
-		<dc:date>2018-06-23</dc:date>
+		<dc:date>2018-06-24</dc:date>
 		<dc:language>en</dc:language>
 		<dc:rights>CC-BY-SA-NC 3.0, Public Domain</dc:rights>
 		<meta content="cover" name="cover"/>
@@ -113,6 +113,7 @@
 		<item href="thecarpet.xhtml" id="thecarpet" media-type="application/xhtml+xml"/>
 		<item href="thewindmill2.xhtml" id="thewindmill2" media-type="application/xhtml+xml"/>
 		<item href="headsandtails.xhtml" id="headsandtails" media-type="application/xhtml+xml"/>
+		<item href="thedemon.xhtml" id="thedemon" media-type="application/xhtml+xml"/>
 		<item href="backcover.xhtml" id="backcover" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine toc="ncx">
@@ -195,6 +196,7 @@
 		<itemref idref="thecarpet"/>
 		<itemref idref="thewindmill2"/>
 		<itemref idref="headsandtails"/>
+		<itemref idref="thedemon"/>
 		<itemref idref="backcover"/>
 	</spine>
 </package>

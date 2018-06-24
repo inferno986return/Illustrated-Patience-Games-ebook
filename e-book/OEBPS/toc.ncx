@@ -486,6 +486,12 @@
 	</navPoint>
 	<navPoint id="navpoint-80" playOrder="80">
 		<navLabel>
+			<text>7. The Demon</text>
+		</navLabel>
+		<content src="thedemon.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-81" playOrder="81">
+		<navLabel>
 			<text>Back Cover</text>
 		</navLabel>
 		<content src="backcover.xhtml" />

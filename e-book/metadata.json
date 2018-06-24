@@ -506,6 +506,12 @@
 					{
 						"pageNumber": "77",
 						"indentation": "1",
+						"pageName": "7. The Demon",
+						"fileName": "thedemon.xhtml"
+					},
+					{
+						"pageNumber": "78",
+						"indentation": "1",
 						"pageName": "Back Cover",
 						"fileName": "backcover.xhtml"
 					}
