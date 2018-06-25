@@ -504,11 +504,17 @@
 	</navPoint>
 	<navPoint id="navpoint-83" playOrder="83">
 		<navLabel>
+			<text>8. New York Patience</text>
+		</navLabel>
+		<content src="newyorkpatience.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-84" playOrder="84">
+		<navLabel>
 			<text>Cyclopædia of Card and Table Games</text>
 		</navLabel>
 		<content src="cyclopaediaofcardandtablegames.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-84" playOrder="84">
+	<navPoint id="navpoint-85" playOrder="85">
 		<navLabel>
 			<text>Back Cover</text>
 		</navLabel>

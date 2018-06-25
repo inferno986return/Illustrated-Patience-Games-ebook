@@ -5,7 +5,7 @@
 		<dc:subject>Card Games, Reference</dc:subject>
 		<dc:publisher></dc:publisher>
 		<dc:identifier id="bookid">-</dc:identifier>
-		<dc:date>2018-06-24</dc:date>
+		<dc:date>2018-06-25</dc:date>
 		<dc:language>en</dc:language>
 		<dc:rights>CC-BY-SA-NC 3.0, Public Domain</dc:rights>
 		<meta content="cover" name="cover"/>
@@ -24,16 +24,20 @@
 		<item href="images/introduction/introductionend.png" id="image7" media-type="image/png"/>
 		<item href="images/nestor/nestor.png" id="image8" media-type="image/png"/>
 		<item href="images/quadrille/quadrille.png" id="image9" media-type="image/png"/>
-		<item href="images/theamazons/theamazons.png" id="image10" media-type="image/png"/>
-		<item href="images/thedial1/thedial1end.png" id="image11" media-type="image/png"/>
-		<item href="images/thefivecourtcards/thefivecourtcards.png" id="image12" media-type="image/png"/>
-		<item href="images/thefourseasons/thefourseasons.png" id="image13" media-type="image/png"/>
-		<item href="images/theharvest/theharvest.png" id="image14" media-type="image/png"/>
-		<item href="images/thepyramid/thepyramid.png" id="image15" media-type="image/png"/>
-		<item href="images/thestar/thestar.png" id="image16" media-type="image/png"/>
-		<item href="images/thestar/thestarend.png" id="image17" media-type="image/png"/>
-		<item href="images/thewish/thewishbegin.png" id="image18" media-type="image/png"/>
-		<item href="images/thewish/thewishend.png" id="image19" media-type="image/png"/>
+		<item href="images/sympathy/sympathyend.png" id="image10" media-type="image/png"/>
+		<item href="images/theamazons/theamazons.png" id="image11" media-type="image/png"/>
+		<item href="images/thedial1/thedial1end.png" id="image12" media-type="image/png"/>
+		<item href="images/thefivecourtcards/thefivecourtcards.png" id="image13" media-type="image/png"/>
+		<item href="images/thefly/theflyend.png" id="image14" media-type="image/png"/>
+		<item href="images/thefourseasons/thefourseasons.png" id="image15" media-type="image/png"/>
+		<item href="images/theharvest/theharvest.png" id="image16" media-type="image/png"/>
+		<item href="images/thekings/thekingsend.png" id="image17" media-type="image/png"/>
+		<item href="images/thepyramid/thepyramid.png" id="image18" media-type="image/png"/>
+		<item href="images/thequadrangle/thequadrangleend.png" id="image19" media-type="image/png"/>
+		<item href="images/thestar/thestar.png" id="image20" media-type="image/png"/>
+		<item href="images/thestar/thestarend.png" id="image21" media-type="image/png"/>
+		<item href="images/thewish/thewishbegin.png" id="image22" media-type="image/png"/>
+		<item href="images/thewish/thewishend.png" id="image23" media-type="image/png"/>
 		<item href="bookcover.xhtml" id="bookcover" media-type="application/xhtml+xml"/>
 		<item href="title.xhtml" id="title" media-type="application/xhtml+xml"/>
 		<item href="indicia.xhtml" id="indicia" media-type="application/xhtml+xml"/>
@@ -116,6 +120,7 @@
 		<item href="thewindmill2.xhtml" id="thewindmill2" media-type="application/xhtml+xml"/>
 		<item href="headsandtails.xhtml" id="headsandtails" media-type="application/xhtml+xml"/>
 		<item href="thedemon.xhtml" id="thedemon" media-type="application/xhtml+xml"/>
+		<item href="newyorkpatience.xhtml" id="newyorkpatience" media-type="application/xhtml+xml"/>
 		<item href="cyclopaediaofcardandtablegames.xhtml" id="cyclopaediaofcardandtablegames" media-type="application/xhtml+xml"/>
 		<item href="backcover.xhtml" id="backcover" media-type="application/xhtml+xml"/>
 	</manifest>
@@ -202,6 +207,7 @@
 		<itemref idref="thewindmill2"/>
 		<itemref idref="headsandtails"/>
 		<itemref idref="thedemon"/>
+		<itemref idref="newyorkpatience"/>
 		<itemref idref="cyclopaediaofcardandtablegames"/>
 		<itemref idref="backcover"/>
 	</spine>

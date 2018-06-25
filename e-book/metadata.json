@@ -524,11 +524,17 @@
 					{
 						"pageNumber": "82",
 						"indentation": "1",
+						"pageName": "8. New York Patience",
+						"fileName": "newyorkpatience.xhtml"
+					},
+					{
+						"pageNumber": "83",
+						"indentation": "1",
 						"pageName": "Cyclopædia of Card and Table Games",
 						"fileName": "cyclopaediaofcardandtablegames.xhtml"
 					},
 					{
-						"pageNumber": "83",
+						"pageNumber": "84",
 						"indentation": "1",
 						"pageName": "Back Cover",
 						"fileName": "backcover.xhtml"
