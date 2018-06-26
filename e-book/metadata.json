@@ -530,11 +530,17 @@
 					{
 						"pageNumber": "83",
 						"indentation": "1",
+						"pageName": "9. St. Helena Patience",
+						"fileName": "sthelenapatience.xhtml"
+					},
+					{
+						"pageNumber": "84",
+						"indentation": "1",
 						"pageName": "Cyclopædia of Card and Table Games",
 						"fileName": "cyclopaediaofcardandtablegames.xhtml"
 					},
 					{
-						"pageNumber": "84",
+						"pageNumber": "85",
 						"indentation": "1",
 						"pageName": "Back Cover",
 						"fileName": "backcover.xhtml"
