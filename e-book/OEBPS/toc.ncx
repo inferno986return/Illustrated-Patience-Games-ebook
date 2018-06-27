@@ -516,11 +516,17 @@
 	</navPoint>
 	<navPoint id="navpoint-85" playOrder="85">
 		<navLabel>
+			<text>10. Reversible Sequences</text>
+		</navLabel>
+		<content src="reversiblesequences.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-86" playOrder="86">
+		<navLabel>
 			<text>Cyclopædia of Card and Table Games</text>
 		</navLabel>
 		<content src="cyclopaediaofcardandtablegames.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-86" playOrder="86">
+	<navPoint id="navpoint-87" playOrder="87">
 		<navLabel>
 			<text>Back Cover</text>
 		</navLabel>

@@ -536,11 +536,17 @@
 					{
 						"pageNumber": "84",
 						"indentation": "1",
+						"pageName": "10. Reversible Sequences",
+						"fileName": "reversiblesequences.xhtml"
+					},
+					{
+						"pageNumber": "85",
+						"indentation": "1",
 						"pageName": "Cyclopædia of Card and Table Games",
 						"fileName": "cyclopaediaofcardandtablegames.xhtml"
 					},
 					{
-						"pageNumber": "85",
+						"pageNumber": "86",
 						"indentation": "1",
 						"pageName": "Back Cover",
 						"fileName": "backcover.xhtml"
