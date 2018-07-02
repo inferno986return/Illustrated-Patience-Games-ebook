@@ -522,11 +522,23 @@
 	</navPoint>
 	<navPoint id="navpoint-86" playOrder="86">
 		<navLabel>
+			<text>11. Puss in the Corner</text>
+		</navLabel>
+		<content src="pussinthecorner.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-87" playOrder="87">
+		<navLabel>
+			<text>12. The Four Marriages</text>
+		</navLabel>
+		<content src="thefourmarriages.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-88" playOrder="88">
+		<navLabel>
 			<text>Cyclopædia of Card and Table Games</text>
 		</navLabel>
 		<content src="cyclopaediaofcardandtablegames.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-87" playOrder="87">
+	<navPoint id="navpoint-89" playOrder="89">
 		<navLabel>
 			<text>Back Cover</text>
 		</navLabel>

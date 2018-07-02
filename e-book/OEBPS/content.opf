@@ -5,7 +5,7 @@
 		<dc:subject>Card Games, Reference</dc:subject>
 		<dc:publisher></dc:publisher>
 		<dc:identifier id="bookid">-</dc:identifier>
-		<dc:date>2018-06-30</dc:date>
+		<dc:date>2018-07-02</dc:date>
 		<dc:language>en</dc:language>
 		<dc:rights>CC-BY-SA-NC 3.0, Public Domain</dc:rights>
 		<meta content="cover" name="cover"/>
@@ -27,24 +27,27 @@
 		<item href="images/sympathy/sympathyend.png" id="image10" media-type="image/png"/>
 		<item href="images/theamazons/theamazons.png" id="image11" media-type="image/png"/>
 		<item href="images/theconstitution/theconstitutionend.png" id="image12" media-type="image/png"/>
-		<item href="images/thedial1/thedial1end.png" id="image13" media-type="image/png"/>
-		<item href="images/thefairest1/thefairest1.png" id="image14" media-type="image/png"/>
-		<item href="images/thefairest2/thefairest2.png" id="image15" media-type="image/png"/>
-		<item href="images/thefivecourtcards/thefivecourtcards.png" id="image16" media-type="image/png"/>
-		<item href="images/thefly/theflyend.png" id="image17" media-type="image/png"/>
-		<item href="images/thefourseasons/thefourseasons.png" id="image18" media-type="image/png"/>
-		<item href="images/theharvest/theharvest.png" id="image19" media-type="image/png"/>
-		<item href="images/thekings/thekingsend.png" id="image20" media-type="image/png"/>
-		<item href="images/thepatriarchs/thepatriarchsend.png" id="image21" media-type="image/png"/>
-		<item href="images/thepyramid/thepyramid.png" id="image22" media-type="image/png"/>
-		<item href="images/thequadrangle/thequadrangleend.png" id="image23" media-type="image/png"/>
-		<item href="images/thestar/thestar.png" id="image24" media-type="image/png"/>
-		<item href="images/thestar/thestarend.png" id="image25" media-type="image/png"/>
-		<item href="images/thestorehouse/thestorehouse.png" id="image26" media-type="image/png"/>
-		<item href="images/thewish/thewishbegin.png" id="image27" media-type="image/png"/>
-		<item href="images/thewish/thewishend.png" id="image28" media-type="image/png"/>
-		<item href="images/thirteens/thirteens.png" id="image29" media-type="image/png"/>
-		<item href="images/valentine/valentine.png" id="image30" media-type="image/png"/>
+		<item href="images/thedemon/thedemon.png" id="image13" media-type="image/png"/>
+		<item href="images/thedial1/thedial1end.png" id="image14" media-type="image/png"/>
+		<item href="images/thefairest1/thefairest1.png" id="image15" media-type="image/png"/>
+		<item href="images/thefairest2/thefairest2.png" id="image16" media-type="image/png"/>
+		<item href="images/thefivecourtcards/thefivecourtcards.png" id="image17" media-type="image/png"/>
+		<item href="images/thefly/theflyend.png" id="image18" media-type="image/png"/>
+		<item href="images/thefourseasons/thefourseasons.png" id="image19" media-type="image/png"/>
+		<item href="images/theharvest/theharvest.png" id="image20" media-type="image/png"/>
+		<item href="images/thekings/thekingsend.png" id="image21" media-type="image/png"/>
+		<item href="images/thepatriarchs/thepatriarchsend.png" id="image22" media-type="image/png"/>
+		<item href="images/thepyramid/thepyramid.png" id="image23" media-type="image/png"/>
+		<item href="images/thequadrangle/thequadrangleend.png" id="image24" media-type="image/png"/>
+		<item href="images/thestar/thestar.png" id="image25" media-type="image/png"/>
+		<item href="images/thestar/thestarend.png" id="image26" media-type="image/png"/>
+		<item href="images/thestar2/thestar2.png" id="image27" media-type="image/png"/>
+		<item href="images/thestorehouse/thestorehouse.png" id="image28" media-type="image/png"/>
+		<item href="images/thetravellers/thetravellers.png" id="image29" media-type="image/png"/>
+		<item href="images/thewish/thewishbegin.png" id="image30" media-type="image/png"/>
+		<item href="images/thewish/thewishend.png" id="image31" media-type="image/png"/>
+		<item href="images/thirteens/thirteens.png" id="image32" media-type="image/png"/>
+		<item href="images/valentine/valentine.png" id="image33" media-type="image/png"/>
 		<item href="bookcover.xhtml" id="bookcover" media-type="application/xhtml+xml"/>
 		<item href="title.xhtml" id="title" media-type="application/xhtml+xml"/>
 		<item href="indicia.xhtml" id="indicia" media-type="application/xhtml+xml"/>
@@ -130,6 +133,8 @@
 		<item href="newyorkpatience.xhtml" id="newyorkpatience" media-type="application/xhtml+xml"/>
 		<item href="sthelenapatience.xhtml" id="sthelenapatience" media-type="application/xhtml+xml"/>
 		<item href="reversiblesequences.xhtml" id="reversiblesequences" media-type="application/xhtml+xml"/>
+		<item href="pussinthecorner.xhtml" id="pussinthecorner" media-type="application/xhtml+xml"/>
+		<item href="thefourmarriages.xhtml" id="thefourmarriages" media-type="application/xhtml+xml"/>
 		<item href="cyclopaediaofcardandtablegames.xhtml" id="cyclopaediaofcardandtablegames" media-type="application/xhtml+xml"/>
 		<item href="backcover.xhtml" id="backcover" media-type="application/xhtml+xml"/>
 	</manifest>
@@ -219,6 +224,8 @@
 		<itemref idref="newyorkpatience"/>
 		<itemref idref="sthelenapatience"/>
 		<itemref idref="reversiblesequences"/>
+		<itemref idref="pussinthecorner"/>
+		<itemref idref="thefourmarriages"/>
 		<itemref idref="cyclopaediaofcardandtablegames"/>
 		<itemref idref="backcover"/>
 	</spine>
