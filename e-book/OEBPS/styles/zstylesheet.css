@@ -351,18 +351,18 @@ p.protip
 /*Initial Letter*/
 /*Intial letters (also known as dropcaps or illuminated letters) are the large letters used at the start of a chapter for emphasis.*/
 
-.initial /*Code snagged from Wikipedia.*/
+span.initial, .initial /*Code snagged from Wikipedia.*/
 {
 	float: left;
 	font-weight: bold;
-	font-size: 3.5em;
-	line-height: 0.95em;
-	margin-right: 0.10em;
-	vertical-align: baseline;
+	font-size: 3.6em;
+	line-height: 1em;
+	margin-right: 0.1em;
+	vertical-align: top;
 	color: #D31F26;
 }
 
-.initial-black
+span.initial-black, .initial-black
 {
 	float: left;
 	font-weight: bold;
