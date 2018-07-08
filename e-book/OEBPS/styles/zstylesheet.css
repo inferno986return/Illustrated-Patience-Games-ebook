@@ -356,9 +356,10 @@ span.initial, .initial /*Code snagged from Wikipedia.*/
 	float: left;
 	font-weight: bold;
 	font-size: 3.6em;
-	line-height: 1em;
+	line-height: 0.8em;
+	margin-bottom: 0.08em;
 	margin-right: 0.1em;
-	vertical-align: top;
+	vertical-align: baseline;
 	color: #D31F26;
 }
 

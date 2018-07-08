@@ -534,11 +534,23 @@
 	</navPoint>
 	<navPoint id="navpoint-88" playOrder="88">
 		<navLabel>
+			<text>13. Backbone Patience</text>
+		</navLabel>
+		<content src="backbonepatience.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-89" playOrder="89">
+		<navLabel>
+			<text>14. Bismarck Patience</text>
+		</navLabel>
+		<content src="bismarckpatience.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-90" playOrder="90">
+		<navLabel>
 			<text>Cyclopædia of Card and Table Games</text>
 		</navLabel>
 		<content src="cyclopaediaofcardandtablegames.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-89" playOrder="89">
+	<navPoint id="navpoint-91" playOrder="91">
 		<navLabel>
 			<text>Back Cover</text>
 		</navLabel>

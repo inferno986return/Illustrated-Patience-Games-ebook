@@ -554,11 +554,23 @@
 					{
 						"pageNumber": "87",
 						"indentation": "1",
+						"pageName": "13. Backbone Patience",
+						"fileName": "backbonepatience.xhtml"
+					},
+					{
+						"pageNumber": "88",
+						"indentation": "1",
+						"pageName": "14. Bismarck Patience",
+						"fileName": "bismarckpatience.xhtml"
+					},
+					{
+						"pageNumber": "89",
+						"indentation": "1",
 						"pageName": "Cyclopædia of Card and Table Games",
 						"fileName": "cyclopaediaofcardandtablegames.xhtml"
 					},
 					{
-						"pageNumber": "86",
+						"pageNumber": "90",
 						"indentation": "1",
 						"pageName": "Back Cover",
 						"fileName": "backcover.xhtml"

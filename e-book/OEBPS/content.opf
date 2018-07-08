@@ -5,7 +5,7 @@
 		<dc:subject>Card Games, Reference</dc:subject>
 		<dc:publisher></dc:publisher>
 		<dc:identifier id="bookid">-</dc:identifier>
-		<dc:date>2018-07-06</dc:date>
+		<dc:date>2018-07-08</dc:date>
 		<dc:language>en</dc:language>
 		<dc:rights>CC-BY-SA-NC 3.0, Public Domain</dc:rights>
 		<meta content="cover" name="cover"/>
@@ -141,6 +141,8 @@
 		<item href="reversiblesequences.xhtml" id="reversiblesequences" media-type="application/xhtml+xml"/>
 		<item href="pussinthecorner.xhtml" id="pussinthecorner" media-type="application/xhtml+xml"/>
 		<item href="thefourmarriages.xhtml" id="thefourmarriages" media-type="application/xhtml+xml"/>
+		<item href="backbonepatience.xhtml" id="backbonepatience" media-type="application/xhtml+xml"/>
+		<item href="bismarckpatience.xhtml" id="bismarckpatience" media-type="application/xhtml+xml"/>
 		<item href="cyclopaediaofcardandtablegames.xhtml" id="cyclopaediaofcardandtablegames" media-type="application/xhtml+xml"/>
 		<item href="backcover.xhtml" id="backcover" media-type="application/xhtml+xml"/>
 	</manifest>
@@ -232,6 +234,8 @@
 		<itemref idref="reversiblesequences"/>
 		<itemref idref="pussinthecorner"/>
 		<itemref idref="thefourmarriages"/>
+		<itemref idref="backbonepatience"/>
+		<itemref idref="bismarckpatience"/>
 		<itemref idref="cyclopaediaofcardandtablegames"/>
 		<itemref idref="backcover"/>
 	</spine>
